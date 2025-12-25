@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Luxury Christmas Morphing Tree",
+  "description": "A high-fidelity 3D Christmas experience featuring a morphing particle tree, hand gesture controls using MediaPipe, and a luxurious rose-pink and gold aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
